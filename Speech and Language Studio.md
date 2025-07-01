@@ -1,14 +1,3 @@
-# Desafio - Azure Speech Studio & Language Studio
-
-Este repositório contém as anotações, insights e documentação técnica desenvolvidos durante a realização do desafio prático com foco em **análise de fala** e **linguagem natural**, utilizando as ferramentas **Azure Speech Studio** e **Language Studio**.
-
-## 🎯 Objetivos
-
-- Aplicar conceitos de Inteligência Artificial voltados para voz e linguagem;
-- Explorar recursos do Azure Speech Studio e Language Studio;
-- Documentar o processo de aprendizado e aplicação prática;
-- Compartilhar a experiência utilizando o GitHub como ferramenta de versionamento e colaboração.
-
 ## 🛠️ Ferramentas Utilizadas
 
 - [Azure Speech Studio](https://speech.microsoft.com/)
